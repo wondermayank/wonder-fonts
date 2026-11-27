@@ -1,0 +1,11 @@
+WonderFonts
+Copyright 2026 Mayank Shrivastava (Wondermayank)
+https://wondermayank.in/
+https://github.com/wondermayank/wonder-fonts
+
+This product includes software developed by Wondermayank.
+
+Third-party components:
+- onnxruntime-web and the U2-Net-P model (Apache-2.0), used for in-browser
+  background removal, located in /ai/.
+- Fonts come from Google Fonts and keep their own licenses (mostly SIL OFL).
