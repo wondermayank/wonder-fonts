@@ -1,3 +1,120 @@
+# robots.txt for WonderFonts by Wondermayank
+# Site: https://fonts.wondermayank.in/
+# Contact: contact@wondermayank.indevs.in
+# Last updated: 2026-11-27
+#
+# Search engines and AI assistants are welcome. Only the on-device model files are off limits.
+
 User-agent: *
 Allow: /
+Disallow: /ai/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /ai/
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /ai/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /ai/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /ai/
+
+User-agent: Applebot
+Allow: /
+Disallow: /ai/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /ai/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /ai/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /ai/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /ai/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /ai/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /ai/
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /ai/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /ai/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /ai/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /ai/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /ai/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /ai/
+
+User-agent: CCBot
+Allow: /
+Disallow: /ai/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /ai/
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow: /ai/
+
+User-agent: FacebookBot
+Allow: /
+Disallow: /ai/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /ai/
+
+User-agent: MistralAI-User
+Allow: /
+Disallow: /ai/
+
+User-agent: YouBot
+Allow: /
+Disallow: /ai/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /ai/
+
+User-agent: Diffbot
+Allow: /
+Disallow: /ai/
+
+User-agent: Yandex
+Allow: /
+Disallow: /ai/
+
 Sitemap: https://fonts.wondermayank.in/sitemap.xml

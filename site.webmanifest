@@ -1,0 +1,24 @@
+{
+  "name": "WonderFonts by Wondermayank",
+  "short_name": "WonderFonts",
+  "description": "WonderFonts is a free font pairing and typography design studio by Wondermayank. Explore 1,892 Google Fonts, check pairing scores, start from templates and export PNG, SVG, PDF or CSS.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F4F1FC",
+  "theme_color": "#573AFC",
+  "lang": "en-IN",
+  "categories": [
+    "design",
+    "productivity",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

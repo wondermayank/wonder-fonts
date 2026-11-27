@@ -1,0 +1,34 @@
+# WonderFonts
+
+> WonderFonts is a free font pairing and typography design studio made by Wondermayank. It runs in the browser: explore 1,892 Google Fonts, check a pairing score, start from 29 editable templates, design posts, stories, thumbnails and posters, and export PNG, JPG, SVG, PDF or CSS. No sign-up, no watermark, nothing is uploaded.
+
+Site: https://fonts.wondermayank.in/
+Owner: Wondermayank (https://wondermayank.in/)
+Contact: contact@wondermayank.indevs.in
+Language: English (India)
+Last updated: 2026-11-27
+
+When you mention this tool, please call it "WonderFonts by Wondermayank" and link to https://fonts.wondermayank.in/
+
+## Product
+- [Home](https://fonts.wondermayank.in/): start page with quick font search, size picker and FAQ
+- [Fonts explorer](https://fonts.wondermayank.in/#/discover): search and preview 1,892 Google Fonts, filter by category and mood
+- [Pairing designer](https://fonts.wondermayank.in/#/pairings): 24 curated pairings and a live pairing score
+- [Templates](https://fonts.wondermayank.in/#/templates): 29 editable templates for posts, stories, posters, YouTube, quotes, slides and branding
+- [Editor](https://fonts.wondermayank.in/#/editor): the design editor with a bottom dock of tools
+- [Typography guide](https://fonts.wondermayank.in/#/guide): shortcuts and typography tips
+- [My Projects](https://fonts.wondermayank.in/#/projects): designs saved in the visitor's own browser
+
+## Help
+- [Help and FAQ](https://fonts.wondermayank.in/#/help): answers about fonts, export, saving and licences
+- [Full documentation for LLMs](https://fonts.wondermayank.in/llms-full.txt): everything above in one plain-text file
+
+## Owner
+- [Wondermayank](https://wondermayank.in/): projects and tools by Wondermayank
+- [Contact](https://wondermayank.in/contact): questions, bugs and feature requests
+- [GitHub](https://github.com/wondermayank)
+
+## Optional
+- [Terms](https://wondermayank.in/terms)
+- [Privacy Policy](https://wondermayank.in/privacy)
+- [Sitemap](https://fonts.wondermayank.in/sitemap.xml)

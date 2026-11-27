@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://fonts.wondermayank.in/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://fonts.wondermayank.in/</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://fonts.wondermayank.in/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fonts.wondermayank.in/"/>
+    <image:image>
+      <image:loc>https://fonts.wondermayank.in/og-image.png</image:loc>
+      <image:title>WonderFonts by Wondermayank</image:title>
+      <image:caption>Free font pairing and typography design studio</image:caption>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,257 @@
+# WonderFonts by Wondermayank: full documentation
+
+> WonderFonts is a free font pairing and typography design studio by Wondermayank. Explore 1,892 Google Fonts, check pairing scores, start from templates and export PNG, SVG, PDF or CSS.
+
+Canonical URL: https://fonts.wondermayank.in/
+Owner: Wondermayank (https://wondermayank.in/)
+Contact: contact@wondermayank.indevs.in
+Last updated: 2026-11-27
+
+## What it is
+
+WonderFonts is a free web app for choosing fonts and turning them into designs. It is made and maintained by Wondermayank, an independent developer from India who builds free tools for students and creators. It runs entirely in the browser, needs no account and adds no watermark.
+
+## What you can do
+
+- Search and preview 1,892 Google Fonts, filtered by category (sans, serif, display, handwriting, mono) and mood (modern, minimal, bold, elegant, editorial, luxury, playful, professional).
+- Check a font pairing: the pairing score explains contrast, mood and legibility.
+- Start from 24 curated pairings or 29 editable templates.
+- Design in a full editor: text, shapes, images, layers, colours, gradients, effects, undo and redo.
+- Remove an image background on your own device with a small AI model (the first use downloads about 16 MB from this site; photos are never uploaded).
+- Export PNG (1x, 2x or 4x, optional transparent background), JPG, SVG with fonts embedded, high-resolution PDF, and CSS with font imports.
+- Save designs, fonts and pairings in the browser. Nothing is sent to a server.
+
+## How to use it
+
+1. Open the home page and pick a size (for example Instagram Post or YouTube Thumbnail), open a template, or search for a font.
+2. Click any text on the canvas to edit it. Open the Styles dock tab to change fonts and colours, and try a pairing to see its score.
+3. Click Export in the top right and choose a format.
+
+## Design sizes
+
+- Instagram Post: 1080 x 1080 px
+- Instagram Portrait: 1080 x 1350 px
+- Story / Reel: 1080 x 1920 px
+- YouTube Thumbnail: 1280 x 720 px
+- X / LinkedIn Post: 1200 x 675 px
+- Blog / OG Image: 1200 x 630 px
+- Presentation 16:9: 1920 x 1080 px
+- Poster (A-series): 1240 x 1754 px
+- Business Card: 1050 x 600 px
+- Twitter / X Header: 1500 x 500 px
+
+## Templates
+
+### Social posts
+- Acid Grid Drop (1080 x 1350 px)
+- Mesh Glow Feature (1080 x 1080 px)
+- Editorial Tip Carousel (1080 x 1350 px)
+- Outline Repeat Sale (1080 x 1080 px)
+
+### Stories
+- Y2K Chrome Night (1080 x 1920 px)
+- Pastel Font Poll (1080 x 1920 px)
+- Editorial New Post (1080 x 1920 px)
+
+### Posters
+- Swiss Numeral Poster (1240 x 1754 px)
+- Louder Than Words (1240 x 1754 px)
+- Groovy Sundays (1080 x 1350 px)
+- Sound Bloom Festival (1240 x 1754 px)
+
+### YouTube
+- I Tested 100 Fonts (1280 x 720 px)
+- Serif vs Sans (1280 x 720 px)
+- One Line CSS Fix (1280 x 720 px)
+- 5 Font Mistakes (1280 x 720 px)
+
+### Quotes
+- Serif Italic Quote (1080 x 1350 px)
+- Marker Highlight Quote (1080 x 1080 px)
+- Soft Mesh Quote (1080 x 1080 px)
+
+### Presentations
+- Product Launch Slide (1920 x 1080 px)
+- Big Stat Slide (1920 x 1080 px)
+- Editorial Title Slide (1920 x 1080 px)
+- Agenda Grid Slide (1920 x 1080 px)
+
+### Branding
+- Acid Mono Business Card (1050 x 600 px)
+- Editorial Serif Business Card (1050 x 600 px)
+- Brand Identity Sheet (1080 x 1080 px)
+- Coffee Badge Logo (1080 x 1080 px)
+
+### Announcements
+- We’re Hiring (1080 x 1350 px)
+- Live Webinar Banner (1200 x 630 px)
+- Chrome Coming Soon (1080 x 1080 px)
+
+## Curated font pairings
+
+Heading font + body font, with the mood each is meant for:
+
+- Modern Editorial: Playfair Display + Inter (editorial)
+- Poster Punch: Bebas Neue + Montserrat (bold)
+- Quiet Luxury: Cormorant Garamond + Montserrat (luxury)
+- Warm Studio: Fraunces + Work Sans (playful)
+- Tech Product: Space Grotesk + Inter (modern)
+- Newsroom: Oswald + Lora (editorial)
+- Sibling Contrast: DM Serif Display + DM Sans (elegant)
+- Corporate Classic: Montserrat + Merriweather (professional)
+- Thumbnail Impact: Anton + Roboto (bold)
+- Fashion Week: Bodoni Moda + Raleway (luxury)
+- Gallery: Syne + Manrope (modern)
+- Minimal Brand: Instrument Serif + Inter (minimal)
+- Magazine Cover: Abril Fatface + Lato (editorial)
+- Vintage Elegance: Josefin Sans + Libre Baskerville (elegant)
+- Brutal Mono-family: Archivo Black + Archivo (bold)
+- Wedding Suite: Great Vibes + Lato (luxury)
+- Startup Launch: Unbounded + Plus Jakarta Sans (modern)
+- Superfamily: Roboto Slab + Roboto (professional)
+- Friendly App: Rubik + Karla (playful)
+- Academic: Libre Baskerville + Source Sans 3 (professional)
+- Tokyo Poster: Dela Gothic One + Space Mono (bold)
+- Notebook: Caveat + Nunito (playful)
+- Heritage Hotel: Marcellus + Open Sans (luxury)
+- Industrial: Big Shoulders Display + IBM Plex Sans (editorial)
+
+## Frequently asked questions
+
+### Getting started
+
+**Is WonderFonts free?**
+Yes. Every feature — all 1,800+ fonts, templates, the editor and every export format — is free. There is no account, no watermark and no paywall.
+
+**Do I need to sign up or log in?**
+No. Open the site and start designing. Your work is saved automatically in your own browser.
+
+**How do I start a new design?**
+Click “New design” in the top bar, pick a size (Instagram post, story, YouTube thumbnail, slide, poster and more) or enter a custom size. You can also open any template from the Templates page and edit it.
+
+**Does it work on my phone?**
+Yes. The editor tools live in a floating dock at the bottom of the screen on phones, tablets and desktops, and the settings open as a drawer when you tap something on a small screen. For detailed work, a laptop or desktop with a mouse is more comfortable.
+
+**Which browsers are supported?**
+Recent versions of Chrome, Edge, Firefox and Safari. Chrome and Edge give the best results (including the eyedropper tool and blur effects in exports).
+
+**Who made WonderFonts?**
+WonderFonts is a free tool by Wondermayank (Thunder), a student developer from India who builds free tools for students and creators. More projects are at wondermayank.in.
+
+**How do I report a bug or ask for a feature?**
+Use the contact page at wondermayank.in/contact or message Wondermayank on Telegram (@wondermayank). Please mention your browser and what you were doing when it happened.
+
+### Saving and projects
+
+**Do you store my designs or photos on a server?**
+No. Designs, uploads, saved fonts and pairings stay in your browser on this device. Fonts load from Google Fonts. You can read the Terms and the Privacy Policy on wondermayank.in.
+
+**Where are my designs saved?**
+In your browser on this device (IndexedDB). Open “My Projects” to see them. Nothing is uploaded to a server.
+
+**Can I open my designs on another device?**
+Not automatically — projects stay in the browser where you made them. To move a design, export it (SVG keeps it vector) and continue there.
+
+**I cleared my browser data and my projects are gone.**
+Clearing site data or browsing in a private window removes locally saved projects, and they cannot be recovered. Export important designs as you go.
+
+### Using the editor
+
+**How do I edit text?**
+Double-click any text on the canvas (or select it and press Enter) and type. You can also change the words in the text box at the top of the right-hand panel.
+
+**How do I move, resize or rotate things?**
+Click to select, then drag to move. Drag a corner handle to resize (text scales its font size), the side handles to change the text box width, and the round handle below the selection to rotate. Hold Shift while rotating to snap to 15°.
+
+**How do I select several things at once?**
+Drag across empty space to draw a selection box, or hold Shift and click items. With several selected you can move, align, change opacity or delete them together.
+
+**How do I line things up?**
+Pink guide lines appear when an item lines up with the page centre, the edges or other items. Hold Alt while dragging to turn snapping off. The Position section also has one-click align buttons.
+
+**Can I undo a mistake?**
+Yes — Ctrl/⌘ + Z to undo and Ctrl/⌘ + Shift + Z (or Ctrl + Y) to redo. The arrows in the top bar do the same.
+
+**How do I zoom and move around the canvas?**
+Hold Ctrl/⌘ and scroll to zoom, scroll to pan, or hold Space and drag. Ctrl/⌘ + 0 fits the design to your screen.
+
+**How do I change the order of layers?**
+Open the Layers tab on the left and drag items up or down, or use bring forward / send backward in the Arrange section. You can also hide or lock layers there.
+
+**Can I add my own images?**
+Yes. Use the Uploads tab to add PNG, JPG, WebP or SVG images, or set one as the page background. Images never leave your device.
+
+**How do I remove the background from a photo?**
+Select the image and click “Remove background” in the right-hand panel. A small AI model runs on your device (the first time it downloads about 16 MB from this site), so your photo is never uploaded. Use “Edge softness” to tidy the cut-out, or “Restore background” to undo it. It works best on photos with one clear subject.
+
+**How do I fix a dark or dull photo?**
+Select the image and click “Auto light” — it balances brightness, contrast and colour for you. Fine-tune with the Brightness, Contrast, Saturation and Warmth sliders, or click Reset to go back to the original.
+
+### Fonts and pairings
+
+**Where do the fonts come from?**
+All fonts are from Google Fonts and load on demand. Use the font picker in the editor or the Fonts page to search all 1,892 families.
+
+**What is the pairing score?**
+It rates how well a heading font and a body font work together — based on contrast between their styles, shared mood, readability at body sizes and curated combinations — and explains why. It is guidance, not a rule.
+
+**How do I apply a pairing to my whole design?**
+In the editor open Styles and click any pairing. Large text gets the heading font and smaller text gets the body font. You can also set your own Brand kit fonts and colours there.
+
+**Can I save favourite fonts?**
+Yes. Click the bookmark on any font card or in the font picker. Saved fonts and pairings appear under “Saved” in the top bar.
+
+### Colours and effects
+
+**How do I pick my own colour?**
+Click any colour swatch in the right-hand panel. You can drag in the colour field, type a hex code, set opacity, use the eyedropper to grab a colour from your screen (Chrome/Edge), or choose from colours already in your design, your brand colours and recent colours.
+
+**Can I use gradients?**
+Yes — open a colour swatch and switch to Gradient. Choose linear or radial, drag the colour stops, click the bar to add stops and change the angle. Gradients work on text, shapes and backgrounds.
+
+**How do I add outline, shadow or highlight to text?**
+Select the text and open Effects in the right-hand panel. Outline (with an optional hollow look), Shadow (with “Retro offset” and “Neon glow” presets) and Highlight (a marker box behind each line) can be combined.
+
+### Exporting
+
+**Which formats can I export?**
+PNG (1×, 2× or 4×, with optional transparent background), JPG, SVG with the fonts embedded, high-resolution PDF, and CSS with the font imports and text styles. Click Export in the top-right of the editor.
+
+**Why is my PDF text not selectable?**
+PDFs are exported as a high-resolution image so they always look exactly like your design. If you need editable vector text, export SVG instead.
+
+**My exported image looks different from the canvas.**
+Wait for “Loading fonts…” to disappear before exporting so every font is ready. Blur effects need Chrome, Edge or Firefox — Safari may export them sharp.
+
+**What size should I export for Instagram?**
+Use the Instagram presets (1080 × 1080 or 1080 × 1350) and export PNG at 1× or 2×. For stories and reels use 1080 × 1920.
+
+### Licences and usage
+
+**Can I use my designs commercially?**
+Yes. Designs you create are yours, including for client and commercial work. Google Fonts are free to use under open licences (mostly the SIL Open Font License). Make sure you have rights to any images you upload.
+
+**Can I use the templates for my brand or clients?**
+Yes — edit them freely and use the results however you like. Please do not resell the templates themselves as a template pack.
+
+## Privacy and data
+
+Designs, uploads, saved fonts and pairings stay in the visitor's browser (IndexedDB and localStorage) on their own device. Fonts load from Google Fonts. Terms: https://wondermayank.in/terms . Privacy Policy: https://wondermayank.in/privacy .
+
+## Technical notes for crawlers and agents
+
+- The app is a single-page application that uses hash routes such as /#/discover and /#/templates. The home page at / is the indexable entry point.
+- Sitemap: https://fonts.wondermayank.in/sitemap.xml . Short summary: https://fonts.wondermayank.in/llms.txt
+- Crawlers may fetch /robots.txt, /sitemap.xml, /llms.txt and /llms-full.txt. The /ai/ folder only holds on-device model files and is not useful content.
+
+## How to cite
+
+Name the tool "WonderFonts by Wondermayank" and link to https://fonts.wondermayank.in/
+
+## Contact
+
+- Contact page: https://wondermayank.in/contact
+- Email: contact@wondermayank.indevs.in
+- GitHub: https://github.com/wondermayank
+- X: https://x.com/wondermayank
+- Telegram: https://t.me/wondermayank

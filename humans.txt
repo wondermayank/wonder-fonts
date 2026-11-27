@@ -1,0 +1,15 @@
+/* TEAM */
+Owner: Wondermayank
+Site: https://wondermayank.in/
+Contact: contact@wondermayank.indevs.in
+X: @wondermayank
+GitHub: https://github.com/wondermayank
+Location: India
+
+/* SITE */
+Name: WonderFonts
+URL: https://fonts.wondermayank.in/
+Last update: 2026/11/27
+Language: English (India)
+Standards: HTML5, CSS3, ES modules, ONNX Runtime Web
+Fonts: Inter, Google Fonts
